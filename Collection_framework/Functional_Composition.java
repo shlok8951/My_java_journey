@@ -47,7 +47,7 @@ public class Functional_Composition {
     }
     
 }
- class Student{
+class Student{
         int marks;
         int age;
 
